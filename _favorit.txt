@@ -3,3 +3,11 @@ aktifitas favorit
 2.nonton youtube
 3.nonton film
 4.nonton series
+
+makanan dan minuman favorit
+1.risol
+2.nasi goreng
+3.sate
+4.mie ayam
+5.es kopyor
+6.sprite
