@@ -1,0 +1,9 @@
+bahasa pemrograman dijadikan acuan untuk berkarir di industri teknologi
+list bahasa yang akan dipelajari
+1.java
+2.kotlin
+3.html/css
+
+bahasa yang cukup menarik bagi saya untuk dipelajar1
+1.c++
+2.golang
