@@ -11,3 +11,11 @@ makanan dan minuman favorit
 4.mie ayam
 5.es kopyor
 6.sprite
+
+film atau series favorit
+1.agak laen
+2.alif lam mim
+3.codehelix
+4.sexy doctor is mine
+5.yang hilang dalam cinta
+
