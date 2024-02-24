@@ -1,0 +1,6 @@
+bahasa pemgrogaman akan dijadikan acuan untuk berkarir di industri teknologi
+list bahasa yang akan dipelajari
+1.java
+2.kotlin
+3.html/css
+4.c++
