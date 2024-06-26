@@ -3,7 +3,9 @@ list bahasa yang akan dipelajari
 1.java
 2.kotlin
 3.html/css
+4.javascript
 
 bahasa yang cukup menarik bagi saya untuk dipelajar1
 1.c++
 2.golang
+3.python
