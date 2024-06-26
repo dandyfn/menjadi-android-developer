@@ -17,6 +17,7 @@
 #### 👉 Main Roblox (dah itu aja)
 #
 ### Bahasa Pemgrograman :
-#### 👉 Java (proses)🔒
+#### 👉 Java (OOP)
 #### 👉 Kotlin 🔒
-#### 👉 HTML/CSS 🔒
+#### 👉 HTML/CSS (Layout)
+#### 👉 Javascript 🔒
