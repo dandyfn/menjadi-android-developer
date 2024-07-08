@@ -20,4 +20,4 @@
 #### 👉 Java (OOP)
 #### 👉 Kotlin 🔒
 #### 👉 HTML/CSS (Layout)
-#### 👉 Javascript 🔒
+#### 👉 Javascript (Dasar)
