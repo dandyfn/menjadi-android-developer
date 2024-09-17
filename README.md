@@ -23,5 +23,5 @@
 #### 👉 Javascript (Dasar)
 #### 👉 PHP (Dasar)
 
-### Bahasa Basis Data
-#### SQL
+### Bahasa Basis Data : 
+#### 👉 SQL
