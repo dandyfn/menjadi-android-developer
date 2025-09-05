@@ -8,8 +8,8 @@
 ### 🟣 Pengiat IT
 #
 ### Cita-cita :
-#### 👉 IOT engineer
-#### 👉 Android Developer
+#### 👉 Network Engineer
+#### 👉 Java Engineer
 #
 ### Hobi :
 #### 👉 Nonton Film
@@ -18,10 +18,14 @@
 #
 ### Bahasa Pemgrograman :
 #### 👉 Java (GUI) 🔒
-#### 👉 Kotlin 🔒
 #### 👉 HTML/CSS (Layout)
 #### 👉 Javascript (Dasar)
 #### 👉 PHP (Dasar)
 
 ### Bahasa Basis Data : 
 #### 👉 SQL
+
+### Progress
+#### Java -> Dasar✅ Object✅ Standart Class✅ Collection✅ Lamda✅ Stream✅ Internationalization❌ Maven❌ Testing❌ Thread❌ 
+#### CCNA -> ITN✅ SRWE✅ ENSA✅ 
+#### SQL -> ERD✅ EERD✅ Basic SQL Programing✅
