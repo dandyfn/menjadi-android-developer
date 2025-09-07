@@ -30,4 +30,4 @@
 #### CCNA -> ITN✅ SRWE✅ ENSA✅ 
 #### SQL -> ERD✅ EERD✅ Basic SQL Programing✅
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a88f5798-d0b5-4fd3-94d4-2f8c04a8c760" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+https://www.credly.com/badges/a88f5798-d0b5-4fd3-94d4-2f8c04a8c760/public_url
